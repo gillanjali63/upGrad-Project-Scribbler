@@ -59,4 +59,5 @@ the title "ScriBBler" & the sub-heading below "ScriBBLer" */
  }
  #signupFooter{
     color:rgb(61, 61, 219)!important;
+    cursor: pointer; 
  }
