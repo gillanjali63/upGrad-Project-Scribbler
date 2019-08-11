@@ -19,6 +19,7 @@
          document.getElementById("blogBody").style.border="none";
          document.getElementById("spanTitle").style.border="none";
     }
+    
 //Add Functionality to Like Button
 var count=0;
 function like(){
@@ -31,6 +32,7 @@ function like(){
             document.getElementById("likePara").innerHTML= count + " People have liked this!";
        }
 }
+
 //Add Functionality to Comment Button
 function allComment(){
     var commentSection = document.getElementById("commentBox").value;
