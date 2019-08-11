@@ -101,18 +101,4 @@
         width:66%;
     }
 }
-/* @Media only screen and (max-width:768px){
-    #commentBox{
-        font-size:8px;
-    }
-}
-@Media only screen and (max-width:529px){
-    #commentBox{
-        font-size:6px;
-    }
-}
-@Media only screen and (max-width:529px){
-    #commentBox{
-        font-size:4px;
-    }
-} */
+/* can use media query instead*/
